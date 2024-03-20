@@ -3,10 +3,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-
-/*Andrés Mazariegos 21749
- * 
- */
 public class Main {
     public static void main(String[] args) {
         BinaryTree<String, String> dictionary = new BinaryTree<>();
